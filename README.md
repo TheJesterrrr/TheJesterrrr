@@ -27,16 +27,16 @@ Hi! I'm a cybersecurity enthusiast passionate about learning and exploring the w
 <h2 align="center">Projects</h2>
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-template-rows: minmax(auto, 1fr); gap: 8px; align-items:start; align-content:start;">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=jtenorio-dev&repo=syncnet&theme=tokyonight">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=jtenorio-dev&repo=clancymod&theme=tokyonight">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=jtenorio-dev&repo=flask-application-template&theme=tokyonight" style="display:block;">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=jtenorio-dev&repo=crackmes&theme=tokyonight">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=TheJesterrrr&repo=JesterLinux&theme=tokyonight">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=TheJesterrrr&repo=Chaos-Rootkit&theme=tokyonight">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=TheJesterrrr&repo=LUKS-ENCRYPTION-OPENER&theme=tokyonight" style="display:block;">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=TheJesterrrr&repo=OhMyHyprland&theme=tokyonight">
 </div>
 
 <h2 align="center">Connect With Me</h2>
 
 <p align="center" style="display:flex; justify-content:center; gap:8px;">
- <a href="" target="_blank">
+ <a href="https://www.linkedin.com/in/divo-daniel-saputra-72b1703a6/?isSelfProfile=false" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="issleepyhead"/>
  </a>
  <a href="" target="_blank">
