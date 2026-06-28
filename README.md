@@ -1,5 +1,4 @@
 <!-- Banner -->
-# ![jtenorio-dev Banner Image](./banner.png)
 
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Wizard2.psd.full.png">
@@ -37,10 +36,10 @@ Hi! I'm a cybersecurity enthusiast passionate about learning and exploring the w
 <h2 align="center">Connect With Me</h2>
 
 <p align="center" style="display:flex; justify-content:center; gap:8px;">
- <a href="https://www.linkedin.com/in/issleepyhead" target="_blank">
+ <a href="" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="issleepyhead"/>
  </a>
- <a href="mailto:jtenorio.dev@gmail.com" target="_blank">
+ <a href="" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-fe4164?style=for-the-badge&logo=gmaail&logoColor=white" alt="jtenorio.dev" />
  </a> 
 </p>
