@@ -16,7 +16,7 @@ Hi! I'm a cybersecurity enthusiast passionate about learning and exploring the w
 - 🔭 Currently improving my offensive and defensive security skills  
 - 📚 Constantly exploring new tools and techniques
 - 🌱 Continuously learning new libraries and frameworks 
-- ⚡ BASH
+- ⚡ A kid who love the world of Electrical Engineering
 
 </br>
 
