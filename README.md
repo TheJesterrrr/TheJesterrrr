@@ -40,7 +40,7 @@ Hi! I'm a cybersecurity enthusiast passionate about learning and exploring the w
  <a href="" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="issleepyhead"/>
  </a>
- <a href="divodaniel@proton.me" target="_blank">
+ <a href="mailto:divodaniel@proton.me" target="_blank">
   <img src="https://img.shields.io/badge/ProtonMail-fe4164?style=for-the-badge&logo=gmaail&logoColor=white" alt="TheJesterrr" />
  </a> 
 </p>
