@@ -41,6 +41,6 @@ Hi! I'm a cybersecurity enthusiast passionate about learning and exploring the w
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="issleepyhead"/>
  </a>
  <a href="" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-fe4164?style=for-the-badge&logo=gmaail&logoColor=white" alt="jtenorio.dev" />
+  <img src="https://img.shields.io/badge/ProtonMail-fe4164?style=for-the-badge&logo=gmaail&logoColor=white" alt="jtenorio.dev" />
  </a> 
 </p>
