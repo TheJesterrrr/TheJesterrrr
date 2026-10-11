@@ -10,7 +10,6 @@
 
 Hi! I'm a cybersecurity enthusiast passionate about learning and exploring the world of hacking. I love Python, solving CTF challenges, reverse engineering, and sharpening my skills on platforms like TryHackMe and Hack The Box.  
 
-![jtenorio-dev Profile Views](https://komarev.com/ghpvc/?username=jtenorio-dev&color=8F00FF&style=flat-square)
 
 👋 About Me
 
